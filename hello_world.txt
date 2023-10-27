@@ -5,6 +5,7 @@ This is hello from Isabelle. I am adding a new line of code here.
 Hello again. I am here to add in a second line. I am Isabelle.
 
 This is hello from Kuan Zher. I am adding a new line of code here for direct branch push.”
+Hello again. I am here to add in a second line for direct branch push. I am Kuan Zher."
 
 This is hello from Jia Chen. I am adding a new line of code here.
 Hello again. I am here to add in a second line. I am Jia Chen
